@@ -13,6 +13,9 @@
 <p>Smrithi Lokesh Seramalanna</p>
 
 ## <strong>Running the automation package:</strong>
+
+We were responsible for fixing the launch file, so we should get a treat :P
+
 ```
 $ roslaunch robotics_hackathon_automation automation task.launch
 ```
