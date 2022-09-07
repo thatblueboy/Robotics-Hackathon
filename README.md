@@ -23,3 +23,5 @@ $ rostopic echo cleaning_mode
 ```
 
 Run the above command in another tab to see the current cleaning mode of the robot.
+
+## <strong>[Electronics Simulation](https://www.tinkercad.com/things/hT2ufMqzMAE-modified-copy-of-hackathon-electronics/)</strong> 
