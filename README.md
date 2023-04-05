@@ -1,4 +1,4 @@
-# <strong>ERC Robotics Hackathon 2022: Project M🅱️</strong>
+# <strong>ERC Robotics Hackathon 2022: Autonomous Vacuum Cleaner</strong>
 
 ## <strong>Automation</strong>
 <p>Aditya Kurande</p>
